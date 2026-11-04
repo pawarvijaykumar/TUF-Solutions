@@ -6,13 +6,17 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 | `2026-11-04` |
+| **1** | 0 | 1 | 0 | `2026-11-04` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-No problems synced yet.
+### DSA (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [Delete Tail Of Dll](./DSA/General/delete-tail-of-dll) | [CPP](./DSA/General/delete-tail-of-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-04` |
 
 ---
 
