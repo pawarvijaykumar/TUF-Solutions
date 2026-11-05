@@ -6,22 +6,23 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 0 | 6 | 0 | `2026-11-05` |
+| **7** | 0 | 7 | 0 | `2026-11-05` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (6)
+### DSA (7)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Delete Kth Element Of Dll](./DSA/General/delete-kth-element-of-dll) | [CPP](./DSA/General/delete-kth-element-of-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
-| 0002 | [Delete Tail Of Dll](./DSA/General/delete-tail-of-dll) | [CPP](./DSA/General/delete-tail-of-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0003 | [Insert Before Given Node In Dll](./DSA/General/insert-before-given-node-in-dll) | [CPP](./DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
-| 0004 | [Insert Node Before Head In Dll](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
-| 0005 | [Insert Node Before Kth Node In Dll](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
-| 0006 | [Insert Node Before Tail In Dll](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0001 | [Delete Head Of Dll](./DSA/General/delete-head-of-dll) | [CPP](./DSA/General/delete-head-of-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0002 | [Delete Kth Element Of Dll](./DSA/General/delete-kth-element-of-dll) | [CPP](./DSA/General/delete-kth-element-of-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0003 | [Delete Tail Of Dll](./DSA/General/delete-tail-of-dll) | [CPP](./DSA/General/delete-tail-of-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-04` |
+| 0004 | [Insert Before Given Node In Dll](./DSA/General/insert-before-given-node-in-dll) | [CPP](./DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0005 | [Insert Node Before Head In Dll](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0006 | [Insert Node Before Kth Node In Dll](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0007 | [Insert Node Before Tail In Dll](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
 
 ---
 
