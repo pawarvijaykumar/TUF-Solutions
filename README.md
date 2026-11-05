@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-11-05` |
+| **3** | 0 | 3 | 0 | `2026-11-05` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Delete Tail Of Dll](./DSA/General/delete-tail-of-dll) | [CPP](./DSA/General/delete-tail-of-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-04` |
-| 0002 | [Insert Node Before Head In Dll](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0001 | [Delete Kth Element Of Dll](./DSA/General/delete-kth-element-of-dll) | [CPP](./DSA/General/delete-kth-element-of-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0002 | [Delete Tail Of Dll](./DSA/General/delete-tail-of-dll) | [CPP](./DSA/General/delete-tail-of-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-04` |
+| 0003 | [Insert Node Before Head In Dll](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
 
 ---
 
