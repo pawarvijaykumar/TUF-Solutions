@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **17** | 0 | 17 | 0 | `2026-11-15` |
+| **18** | 0 | 18 | 0 | `2026-11-15` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (17)
+### DSA (18)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -31,8 +31,9 @@
 | 0013 | [Remove Nth Node From The Back Of The Ll](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
 | 0014 | [Reverse A Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-05` |
 | 0015 | [38. Reverse LL in group of given size K](./DSA/Linked-List/reverse-ll-in-group-of-given-size-k) | [CPP](./DSA/Linked-List/reverse-ll-in-group-of-given-size-k/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
-| 0016 | [Segregate Odd And Even Nodes In Ll](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
-| 0017 | [Sort A Ll Of 0's 1's And 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
+| 0016 | [149. Rotate a LL](./DSA/Linked-List/rotate-a-ll) | [CPP](./DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
+| 0017 | [Segregate Odd And Even Nodes In Ll](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
+| 0018 | [Sort A Ll Of 0's 1's And 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
 
 ---
 
