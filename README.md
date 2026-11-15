@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **19** | 0 | 19 | 0 | `2026-11-15` |
+| **20** | 0 | 20 | 0 | `2026-11-15` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (19)
+### DSA (20)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -35,6 +35,7 @@
 | 0017 | [149. Rotate a LL](./DSA/Linked-List/rotate-a-ll) | [CPP](./DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
 | 0018 | [Segregate Odd And Even Nodes In Ll](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
 | 0019 | [Sort A Ll Of 0's 1's And 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
+| 0020 | [124. Sort LL](./DSA/Linked-List/sort-ll) | [CPP](./DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
 
 ---
 
