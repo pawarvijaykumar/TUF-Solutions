@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **18** | 0 | 18 | 0 | `2026-11-15` |
+| **19** | 0 | 19 | 0 | `2026-11-15` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (18)
+### DSA (19)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -23,17 +23,18 @@
 | 0005 | [Detect A Loop In Ll](./DSA/Linked-List/detect-a-loop-in-ll) | [CPP](./DSA/Linked-List/detect-a-loop-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
 | 0006 | [Find Middle Of Linked List](./DSA/Linked-List/find-middle-of-linked-list) | [CPP](./DSA/Linked-List/find-middle-of-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-07` |
 | 0007 | [220. Find the starting point in LL](./DSA/Linked-List/find-the-starting-point-in-ll) | [CPP](./DSA/Linked-List/find-the-starting-point-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
-| 0008 | [Insert Before Given Node In Dll](./DSA/General/insert-before-given-node-in-dll) | [CPP](./DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
-| 0009 | [Insert Node Before Head In Dll](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
-| 0010 | [Insert Node Before Kth Node In Dll](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
-| 0011 | [Insert Node Before Tail In Dll](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
-| 0012 | [769. Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [CPP](./DSA/Linked-List/length-of-loop-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
-| 0013 | [Remove Nth Node From The Back Of The Ll](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
-| 0014 | [Reverse A Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-05` |
-| 0015 | [38. Reverse LL in group of given size K](./DSA/Linked-List/reverse-ll-in-group-of-given-size-k) | [CPP](./DSA/Linked-List/reverse-ll-in-group-of-given-size-k/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
-| 0016 | [149. Rotate a LL](./DSA/Linked-List/rotate-a-ll) | [CPP](./DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
-| 0017 | [Segregate Odd And Even Nodes In Ll](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
-| 0018 | [Sort A Ll Of 0's 1's And 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
+| 0008 | [235. Flattening of LL](./DSA/Linked-List/flattening-of-ll) | [CPP](./DSA/Linked-List/flattening-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
+| 0009 | [Insert Before Given Node In Dll](./DSA/General/insert-before-given-node-in-dll) | [CPP](./DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0010 | [Insert Node Before Head In Dll](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0011 | [Insert Node Before Kth Node In Dll](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0012 | [Insert Node Before Tail In Dll](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
+| 0013 | [769. Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [CPP](./DSA/Linked-List/length-of-loop-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
+| 0014 | [Remove Nth Node From The Back Of The Ll](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
+| 0015 | [Reverse A Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-05` |
+| 0016 | [38. Reverse LL in group of given size K](./DSA/Linked-List/reverse-ll-in-group-of-given-size-k) | [CPP](./DSA/Linked-List/reverse-ll-in-group-of-given-size-k/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
+| 0017 | [149. Rotate a LL](./DSA/Linked-List/rotate-a-ll) | [CPP](./DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
+| 0018 | [Segregate Odd And Even Nodes In Ll](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
+| 0019 | [Sort A Ll Of 0's 1's And 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
 
 ---
 
