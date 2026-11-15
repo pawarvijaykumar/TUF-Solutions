@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **15** | 0 | 15 | 0 | `2026-11-15` |
+| **16** | 0 | 16 | 0 | `2026-11-15` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (15)
+### DSA (16)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -27,10 +27,11 @@
 | 0009 | [Insert Node Before Head In Dll](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
 | 0010 | [Insert Node Before Kth Node In Dll](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
 | 0011 | [Insert Node Before Tail In Dll](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-05` |
-| 0012 | [Remove Nth Node From The Back Of The Ll](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
-| 0013 | [Reverse A Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-05` |
-| 0014 | [Segregate Odd And Even Nodes In Ll](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
-| 0015 | [Sort A Ll Of 0's 1's And 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
+| 0012 | [769. Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [CPP](./DSA/Linked-List/length-of-loop-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-15` |
+| 0013 | [Remove Nth Node From The Back Of The Ll](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
+| 0014 | [Reverse A Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-05` |
+| 0015 | [Segregate Odd And Even Nodes In Ll](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
+| 0016 | [Sort A Ll Of 0's 1's And 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-06` |
 
 ---
 
